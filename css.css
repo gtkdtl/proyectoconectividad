@@ -51,3 +51,9 @@ iframe {
 model-viewer:hover {
     background-color: rgb(63, 63, 63);
 }
+
+a:hover {
+
+    color: aqua;
+
+}
